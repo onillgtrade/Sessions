@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Register</title>
+</head>
+<body>
+    <h1>Register</h1>
+    <% if (typeof error !== 'undefined' && error !== null) { %>
+        <p><%= error %></p>
+    <% } %>
+    
+
+        
+    <form method="POST" action="/register">
+        <input type="text" name="username" placeholder="Username" required><br>
+        <input type="email" name="email" placeholder="Email" required><br>
+        <input type="password" name="password" placeholder="Password" pattern="^(?=.*[0-9])(?=.*[a-zA-Z])([a-zA-Z0-9]+)$" minlength="8" required><br>
+        <p>Password must be at least 8 characters long and contain at least one letter and one number.</p>
+        <button type="submit">Register</button>
+    </form>
+    
+    <p>Already have an account? <a href="/login">Login</a></p>
+</body>
+</html>
+
