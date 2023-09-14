@@ -1,0 +1,37 @@
+[
+   {
+      "username": "usuario1",
+      "email": "usuario1@gmail.com",
+      "password": "$2b$10$P1cF.XdVn.ni5aBKgOSY/e8BdmNJw.oR94s/yM7nS4jmmF/mDx3cY"
+   },
+   {
+      "username": "Onill",
+      "email": "onill@gmail.com",
+      "password": "$2b$10$abLGa2s9yo0MDetUjO.6ZepYQKF0jTUbul2V8Zb.JQRrfueTZb1gC"
+   },
+   {
+      "username": "Pepito",
+      "email": "camila@gmail",
+      "password": "$2b$10$i1eVT4ptKKPSNNVWIpGwju82aLv7bNQZXMiWGW4J0Yc3zodllo7xW"
+   },
+   {
+      "username": "Jhony",
+      "email": "jhony@gmail.com",
+      "password": "$2b$10$x7NrdKSBmvj2tIkUhwql5u0.tjeLGXrKDlZgcZEjsQO4RszmKKB3e"
+   },
+   {
+      "username": "Charles",
+      "email": "charls@gmail.com",
+      "password": "$2b$10$po8SmYlZB9zusywE5iTZ.ue1vS0R4sxjX6KHhMnlV3cJGECVHiuaC"
+   },
+   {
+      "username": "campo",
+      "email": "campo@gmail.com",
+      "password": "$2b$10$AU7J..Hhnye70Mwox88mPuZC1d/XdSeV/8NeFZBp57LQR9iBnwKaq"
+   },
+   {
+      "username": "rosa",
+      "email": "rosa@gmail.com",
+      "password": "$2b$10$vd4HL9CvppqjkwQxG9UsretPHRxaNfM3M4YYf0UOD3QTThcjZlVMq"
+   }
+]
